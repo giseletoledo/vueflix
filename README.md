@@ -2,6 +2,11 @@
 
 Projeto da trilha Vue.js Básico
 
+<p align="center">
+<img width="50%" src="https://raw.githubusercontent.com/giseletoledo/vueflix/main/vueflix.png" alt="Telas do app de fotos">
+</p>
+
+
 ## Objetivo
 
 O objetivo desse projeto é que o aluno implemente as funcionalidades utilizando o conhecimento de Vue.js obtido na trilha.
